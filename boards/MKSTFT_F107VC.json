@@ -16,7 +16,7 @@
     ],
     "ldscript": "stm32f107xc.ld",
     "mcu": "stm32f105rct6",
-    "variant": "stm32f1"
+    "variant": "MKSTFT_F107VC"
   },
   "debug": {
     "jlink_device": "STM32F105RC",
